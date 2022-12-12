@@ -1,1 +1,1 @@
-console.log("유민입니다");
+console.log("유민입니당");
